@@ -44,8 +44,4 @@ Your feedback and contributions are invaluable to us. If you encounter any issue
 
 Join me in this journey of making library book management efficient and user-friendly! Let's build together.
 
-📚🤝 #librarymanagement #bookmanagement #java #springboot #opensource
-
----
-
-This post aims to highlight the main features of your project, provide instructions for getting started, and invite the LinkedIn community to engage with your project. You can personalize the post with your name and any additional details you'd like to include. Happy sharing! 😊
+This post aims to highlight the main features of my project, provide instructions for getting started, and invite the Github community to engage with my project. Happy sharing! 😊
