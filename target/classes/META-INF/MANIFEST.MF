@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: visha
+Build-Jdk: 20.0.1
+Implementation-Title: spark-lms
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.spark.lms
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spark-lms
+Created-By: Maven Integration for Eclipse
+
